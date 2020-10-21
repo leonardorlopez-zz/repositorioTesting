@@ -1,0 +1,5 @@
+<?xml version=*1.0* encoding=*UTF-8* standalone=*no* ?>
+<PROJECT>
+     <ROOTDIR>C:\Users\lrlopez\eclipse-workspace</ROOTDIR>
+     <APP_URL>http://www.google.com.ar</APP_URL>
+</PROJECT>  
