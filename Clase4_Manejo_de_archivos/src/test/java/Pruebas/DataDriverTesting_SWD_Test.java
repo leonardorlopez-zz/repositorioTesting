@@ -39,7 +39,7 @@ public class DataDriverTesting_SWD_Test {
 		driver = new ChromeDriver();
 		writeFile = new WriteExcelFile();
 		readFile = new ReadExcelFile();
-		
+		System.out.println("Estamos en el Before Test");
 		driver.get("http://automationpractice.com");
 	}
 
